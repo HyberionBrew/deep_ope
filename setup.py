@@ -37,5 +37,5 @@ setup(
         'tensorflow==2.3.0',
         'd4rl @ git+git://github.com/rail-berkeley/d4rl@c39eefd68d2f3277ca68e996a45ce1dd24e65625',
         'jax==0.2.11',
-        'jaxlib==0.1.64',
+        'jaxlib==0.1.71',
     ])
