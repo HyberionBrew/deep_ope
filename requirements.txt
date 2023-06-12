@@ -1,5 +1,5 @@
-numpy==1.18.5
-mujoco-py==2.0.2.13 --global-option="--no-cache-dir" --no-binary mujoco-py --global-option="--no-build-isolation"
+mujoco-py==2.0.2.13
+#--global-option="--no-cache-dir" --no-binary mujoco-py --global-option="--no-build-isolation"
 # dm_control @ git+git://github.com/deepmind/dm_control@main#egg=dm_contro
 absl-py==0.10.0
 dm-acme==0.1.8
